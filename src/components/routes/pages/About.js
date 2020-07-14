@@ -17,13 +17,7 @@ class About extends React.Component {
                                 
                                 
                                 <br></br>
-                                <p>I started my journey in the world of computers from an young age,
-                                now I’m 20 years old, Pursuing my Software Engineering Degree in
-                                VIT University Vellore.  Web development is my center of interest, i always
-                                love the idea of cross-platform development, 1-n one code base deploy into almost
-                                any platform, which web technology like Javascript enables me to do. I also like
-                                creating Interactive UI components for better UX  and share those desgin and codes
-                                to the world through Github, Codepen and Instagram.
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </p>
 
                             
