@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mini-folio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mini-folio/static/js/main.4a7486d2.chunk.js",
+    "main.js.map": "/mini-folio/static/js/main.4a7486d2.chunk.js.map",
+    "runtime-main.js": "/mini-folio/static/js/runtime-main.051c8e0e.js",
+    "runtime-main.js.map": "/mini-folio/static/js/runtime-main.051c8e0e.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/mini-folio/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.daf83d29.chunk.js": "/mini-folio/static/js/2.daf83d29.chunk.js",
+    "static/js/2.daf83d29.chunk.js.map": "/mini-folio/static/js/2.daf83d29.chunk.js.map",
+    "index.html": "/mini-folio/index.html",
+    "precache-manifest.7ad1e24abdca37f521d7ee0a561780b1.js": "/mini-folio/precache-manifest.7ad1e24abdca37f521d7ee0a561780b1.js",
+    "service-worker.js": "/mini-folio/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/mini-folio/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/mini-folio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.daf83d29.chunk.js.LICENSE.txt": "/mini-folio/static/js/2.daf83d29.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mini-folio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.051c8e0e.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.daf83d29.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4a7486d2.chunk.js"
+  ]
+}
